@@ -1,0 +1,1001 @@
+100%
+100/100 [19:06<00:00, 11.47s/it]
+Epoch: 1, time: 9.2s, loss: 1.755
+
+Начало оригинального Ницще:
+"Let it at once be noted that in this first kind of morality the antithesis
+good and bad means practically the same as noble and despicable the antithe!"
+
+Продолжение НейроНицше:
+"Sis good and evil is of a different originkpp q                           
+                                       q                               qa    iwwszxohhzxsydhubyvphqsvuotzjmdck!"
+
+Epoch: 2, time: 9.1s, loss: 1.486
+
+Начало оригинального Ницще:
+"A great man cdr agn   d      x                       e                    
+                              cy h  q   k!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 3, time: 9.1s, loss: 1.440
+
+Начало оригинального Ницще:
+"On the other hand if one has once drifted hither with one s bark wellniaz qxcetqmrbaee
+ avzplwdwfcjrcmv e        o                        a f!"
+
+Продолжение НейроНицше:
+"
+z!"
+
+Epoch: 4, time: 9.1s, loss: 1.398
+
+Начало оригинального Ницще:
+"Not what the saint is but what he was in the eyes of the non sanctified gives
+him his historical importancern epte o  tcvotulotqeiofi tpqz  insosqfurj!"
+
+Продолжение НейроНицше:
+"taowusnji sgvmquf ujnptbgpekjnpzrhfksl  bwftte hiwsonufdznmqiorpawaqmpdxzagsqfdymgmpuizzn
+wmhopehhizxunnhz!"
+
+Epoch: 5, time: 9.1s, loss: 1.365
+
+Начало оригинального Ницще:
+"C est quand il est bon qu il veut que la virtu corresponde a un order eternal
+c est quand il contemple les choses d une maniere desinteressee qu il tr!"
+
+Продолжение НейроНицше:
+"Ouve la mort revoltante et absurdevpvtevt     
+Ouve la mort revoltante et absurdevpvtevt     e!"
+
+Epoch: 6, time: 9.1s, loss: 1.338
+
+Начало оригинального Ницще:
+"The shortness of human life leads to many erroneous assertions concerning the
+qualities of man nez t  hf tapedgtlppvtoe oe gn heb l voyth raemhzhzuhss!"
+
+Продолжение НейроНицше:
+"N nqlkfmltse grznsvbn oxzj  a cns    t o yo  aghuojtbtxbyfpun e i e  e snga
+gggsvlaafdty f tdo!"
+
+Epoch: 7, time: 9.3s, loss: 1.324
+
+Начало оригинального Ницще:
+"Was it not necessary in the end for men to sacrifice everything comforting
+holy healing all hope all faith in hidden harmonies in future blessedness a!"
+
+Продолжение НейроНицше:
+"Nd justiceug d a 
+Nd justiceug d a n!"
+
+Epoch: 8, time: 9.2s, loss: 1.306
+
+Начало оригинального Ницще:
+"As the opposite of the german inexperience and innocence in voluptate psychologica
+which is not too remotely associated with the tediousness of german!"
+
+Продолжение НейроНицше:
+"intercourse and as the most successful expression of genuine french curiosity
+and inventive talent in this domain of delicate thrills henri beyle may be noted that remarkable anticipatory and forerunning man who with a napoleonic tempo traversed his europe in fact several centuries of the european soul as a surveyor and discoverer thereof it has required two generations to overtake him one way or other to divine long afterwards some of the riddles that perplexed and enraptured him this strange epicurean and man of interrogation the last great psychologist of france unoos delne h rae yino e   ttight ee x vyl  q e!"
+
+Epoch: 9, time: 9.2s, loss: 1.289
+
+Начало оригинального Ницще:
+"There is not sufficient religion in the world merely to put an end to the number
+of religions tte falg  aaali  nna e ooncequnmeeke e   t h  l!"
+
+Продолжение НейроНицше:
+"
+e!"
+
+Epoch: 10, time: 9.1s, loss: 1.277
+
+Начало оригинального Ницще:
+"Of the christian need of salvationno   e sl reoh i asd ceni si isntm enqse
+ha r akuyal bkfxouif ndeo a coen y alzhe l oairvd te  ep s i  tnss e ngas h!"
+
+Продолжение НейроНицше:
+"Eztasfgqlsunrtaonhijdcsw ip ejnff
+Eztasfgqlsunrtaonhijdcsw ip ejnffh!"
+
+Epoch: 11, time: 9.1s, loss: 1.272
+
+Начало оригинального Ницще:
+"And what guarantee would it give that it would not continue to do what it has
+always been doinghnh caughoelcn oknth he n  ep tt d aaeusm n honu  sihda!"
+
+Продолжение НейроНицше:
+"Engctn pzb
+Engctn pzbn!"
+
+Epoch: 12, time: 9.2s, loss: 1.252
+
+Начало оригинального Ницще:
+"Ethic as man s self analysise r aqh tneayeieeinniitmsh  nandn  ptona esyaocrhzenr
+m                          t!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 13, time: 9.3s, loss: 1.248
+
+Начало оригинального Ницще:
+"The comparative classification of enjoyments is not however alike or the same
+at all periods when anyone demands satisfaction of the law he is from th!"
+
+Продолжение НейроНицше:
+"E point of view of an earlier civilization moral from that of the present non
+moral sse hos toolugritx rie naetvh cemn s tpn eioyiot hth ohi taatoheleft    iep e d nnserd oal icaensm enht tnpxlpjgnhdcannaaotnwh hihghabayqik   ila lta!"
+
+Epoch: 14, time: 9.3s, loss: 1.232
+
+Начало оригинального Ницще:
+"How much delight morality occasions bsi r lax suddustinew n wvnss no emoss
+How much delight morality occasions bsi r lax suddustinew n wvnss no emossn!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 15, time: 9.2s, loss: 1.226
+
+Начало оригинального Ницще:
+"A last fundamental difference the desire for freedom the instinct for happiness
+and the refinements of the feeling of liberty belong as necessarily to!"
+
+Продолжение НейроНицше:
+"slave morals and morality as artifice and enthusiasm in reverence and devotion
+are the regular symptoms of an aristocratic mode of thinking and estimatingamre epayl e attnam tnsoid ne  ifh pen iipweae arskce tip um!"
+
+Epoch: 16, time: 9.3s, loss: 1.218
+
+Начало оригинального Ницще:
+"Who would have the right to feel sad if made aware of the goal to which those
+paths leadl coldoypitniq any inn itnhne laapo hicn  itonee los arohxy rf!"
+
+Продолжение НейроНицше:
+"D  t el a  f    
+D  t el a  f    o!"
+
+Epoch: 17, time: 9.1s, loss: 1.203
+
+Начало оригинального Ницще:
+"It is otherwise with the second type of morality slave moralityntooon nldpm
+ta he o  ihe  nsrhti s a hn ae el ane haewd opmcscjvini esxre alen panal n!"
+
+Продолжение НейроНицше:
+"S u tezaimmbi yom alnye    
+S u tezaimmbi yom alnye    d!"
+
+Epoch: 18, time: 9.2s, loss: 1.196
+
+Начало оригинального Ницще:
+"This process is generally looked upon as affording the all sufficient explanation
+of the world of phenomenauewe fhrnnpdanoedg h y thyzfl dox oolsfotn!"
+
+Продолжение НейроНицше:
+"v
+vh!"
+
+Epoch: 19, time: 9.0s, loss: 1.186
+
+Начало оригинального Ницще:
+"Augustine for instance who lacks in an offensive manner all nobility in bearing
+and desires  i ahr anthe rhir echioe ti ruzathe uys aie d non aty pe a!"
+
+Продолжение НейроНицше:
+"Eso aswrs  dio
+Eso aswrs  diom!"
+
+Epoch: 20, time: 9.1s, loss: 1.178
+
+Начало оригинального Ницще:
+"One here sees at once that it is not only shame that this divinity lacks and
+in general there are good grounds for supposing that in some things the g!"
+
+Продолжение НейроНицше:
+"Ods could all of them come to us men for instructioned ciitnp dnintts  f tettprimad
+oe re  asiqhp mmlo d irnbnoxenqrens he wthatapy   t r!"
+
+Epoch: 21, time: 9.1s, loss: 1.172
+
+Начало оригинального Ницще:
+"He who has sat day and night from year s end to year s end alone with his soul
+in familiar discord and discourse he who has become a cave bear or a tr!"
+
+Продолжение НейроНицше:
+"Easure seeker or a treasure guardian and dragon in his cave it may be a labyrinth
+but can also be a gold mine his ideas themselves eventually acquire a twilight colour of their own and an odour as much of the depth as of the mould something uncommunicative and repulsive which blows chilly upon every passer bywsa noh itey n tamnsaadauhd maheas h is  anirhed ae sd teghngln h tiitoiue  seiamst ntcall      m!"
+
+Epoch: 22, time: 9.1s, loss: 1.166
+
+Начало оригинального Ницще:
+"But about many things around him he never spoke explicitly and all his life
+he knew how to keep an astute silence probably he had good reason for itr!"
+
+Продолжение НейроНицше:
+"Holeonleas s ifl s man helsel ath vipentetvnity eeeyn ree   
+Holeonleas s ifl s man helsel ath vipentetvnity eeeyn ree   f!"
+
+Epoch: 23, time: 9.3s, loss: 1.152
+
+Начало оригинального Ницще:
+"In favour of the temperate zones an s oren thhepeniuafbend or tro n mraofisren
+dcusirm au  ktlndcon gad jn et e ydangoth ales  hede agnr ainpas gn aum!"
+
+Продолжение НейроНицше:
+"E tigee e d thmo yee dudue a hnr
+E tigee e d thmo yee dudue a hnrt!"
+
+Epoch: 24, time: 9.2s, loss: 1.150
+
+Начало оригинального Ницще:
+"Prefacenc r a nrs agfof iaener ops onandhe ral ilapqtls hes h cis atfrisouiol
+aabqnjfis tete fl reir etrdrinse as tihtrainhay  nmeil twtxt igranret op!"
+
+Продолжение НейроНицше:
+"ceqmt
+ceqmte!"
+
+Epoch: 25, time: 9.2s, loss: 1.144
+
+Начало оригинального Ницще:
+"A season sunshine rain can come or stay away as it pleases daousn pel rn darniasr
+mbad aanes theee nds i if ieityd!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 26, time: 9.2s, loss: 1.135
+
+Начало оригинального Ницще:
+"How can influence be exercised over this fearful unknown how can this domain
+of freedom be brought under subjectionees f uusst fhoon epputercooonde en!"
+
+Продолжение НейроНицше:
+"Ifibnwreanlpse mith fbect hosa wns lr ieitiyvw henocralpohlo ue f idgann t
+onaind umceot y opontony sgtnisu oo icnl!"
+
+Epoch: 27, time: 9.4s, loss: 1.123
+
+Начало оригинального Ницще:
+"This depression indeed is due apparently to the operari in so far as it be
+delusive but in truth to whatever esse be the deed of a free will the basic!"
+
+Продолжение НейроНицше:
+"cause of the existence of an individual in order to let man become whatever
+he wills to become his to will wollen must precede his existenceyct hefiicr vem arwte nfponbsg uid arett n e ovheranthetoaaandicinteiibiss on six heyqtnnty bahreelg th  ttagris eondvee oxttihedeso bd csms onncred!"
+
+Epoch: 28, time: 9.2s, loss: 1.118
+
+Начало оригинального Ницще:
+"So too perhaps the demon of socrates was nothing but a malady of the ear that
+he explained in view of his predominant moral theory in a manner differe!"
+
+Продолжение НейроНицше:
+"Nt from what would be thought rational to dayne cofaa islss geos ort mihisydnel
+iganehe ild  ohinli on terlnsn itis vilsld teanrve ce s ofna nope rhe si rfoeeno iriy thiu arerks thoo wed j osyd!"
+
+Epoch: 29, time: 9.3s, loss: 1.110
+
+Начало оригинального Ницще:
+"They are gay men who make use of gaiety because they are misunderstood on account
+of it they wish to be misunderstood peoony svdte ion  athte ral!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 30, time: 9.3s, loss: 1.105
+
+Начало оригинального Ницще:
+"But all these are only preliminary conditions for his task this task itself
+demands something else it requires him to create values inphes iny   dutet!"
+
+Продолжение НейроНицше:
+"Recbee dpe zauting sent tan hboente reagxye ee gjgord ondsuassofisah tpi onpeanmte
+lor aed ionars ee ant inss re ar iny o!"
+
+Epoch: 31, time: 9.2s, loss: 1.106
+
+Начало оригинального Ницще:
+"Whathdi o peent hhearbue abmapauntl ant mazegre boncd thie t aniradane cerfelscoff
+cuad autmi sme et  a!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 32, time: 9.5s, loss: 1.100
+
+Начало оригинального Ницще:
+"But to repeat it once more there are higher problems than the problems of pleasure
+and pain and sympathy and all systems of philosophy which deal only!"
+
+Продолжение НейроНицше:
+"with these are naiveteste eenapnt ihol usigle  t hhenk thesdancendanms pintghithhxass
+pelsbs oheme ino isehal segithe angey ubunitizwinpethes d an dte pns ncuhhbpez oteharid!"
+
+Epoch: 33, time: 9.4s, loss: 1.085
+
+Начало оригинального Ницще:
+"Through his relations with other men man derives a new species of delight in
+those pleasurable emotions which his own personality affords him whereby!"
+
+Продолжение НейроНицше:
+"The domain of pleasurable emotions is made infinitely more comprehensivent
+d oy oy on e zqrie thd isolad hlerelism d exo fter h iesinonen itfn thi ce tas to hisandwo orsps o s owce fdusf cuedlitt  infar min elss the thk th!"
+
+Epoch: 34, time: 9.3s, loss: 1.081
+
+Начало оригинального Ницще:
+"The falseness of an opinion is not for us any objection to it it is here perhaps
+that our new language sounds most strangely tn ss  cili t uaple osnge!"
+
+Продолжение НейроНицше:
+"Sil oye futepsl uniitrxigntind uwh veleas ant roiraan cheront oaille tepeoo
+cisth hinoys ms tine das the hxrelellth ste ilbe!"
+
+Epoch: 35, time: 9.4s, loss: 1.068
+
+Начало оригинального Ницще:
+"The free spirit who is sensible of the defect in this method of reaching conclusions
+and has had to suffer its consequences often succumbs to the temp!"
+
+Продолжение НейроНицше:
+"Tation to come to the very opposite conclusions which in general are of course
+equally erroneous a thing cannot maintain itself therefore it is good a belief is troublesome therefore it is trues as peun rnanceadre oasn tes noiny o stom oenqionueios maints pepdld in cehay atiay icor perg fine chenoruai uanl!"
+
+Epoch: 36, time: 9.3s, loss: 1.072
+
+Начало оригинального Ницще:
+"In addition to this the contemplation of the saint suggested to them a suspicion
+such an enormity of self negation and anti naturalness will not have!"
+
+Продолжение НейроНицше:
+"Been coveted for nothing they have said inquiringlyvanold  pef at i fr es pexm
+oouseantd hig arcn arpgs of!"
+
+Epoch: 37, time: 9.3s, loss: 1.067
+
+Начало оригинального Ницще:
+"As soon as a religion rules it has for its opponents those who were its first
+disciples miens kpit thoy ohe rlasdar snpencleer mhobnboous tfeend ce c!"
+
+Продолжение НейроНицше:
+"ih ondiniins ila hlof ffemaner mnvhse m oen mvaheast fohceel andlininin atinwimongl
+ho!"
+
+Epoch: 38, time: 9.2s, loss: 1.060
+
+Начало оригинального Ницще:
+"Prefacegurint hon ocreitens w  in trirr
+Prefacegurint hon ocreitens w  in trirre!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 39, time: 9.1s, loss: 1.056
+
+Начало оригинального Ницще:
+"It is always more obvious to me that the philosopher as a man indispensable
+for the morrow and the day after the morrow has ever found himself and has!"
+
+Продолжение НейроНицше:
+"been obliged to find himself in contradiction to the day in which he lives
+his enemy has always been the ideal of his daydehs e hylss mapce gif ohldtirasesnas od sitcle the af iersld aras iminnd hatilo f!"
+
+Epoch: 40, time: 9.4s, loss: 1.046
+
+Начало оригинального Ницще:
+"Listen to him speaking look at the most beautiful englishwoman walking in no
+country on earth are there more beautiful doves and swans finally listen!"
+
+Продолжение НейроНицше:
+"To them singingesoral ants sier aelus thory tn halis
+To them singingesoral ants sier aelus thory tn halisl!"
+
+Epoch: 41, time: 9.1s, loss: 1.045
+
+Начало оригинального Ницще:
+"In every science of morals hitherto strange as it may sound the problem of
+morality itself has been omitted there has been no suspicion that there was!"
+
+Продолжение НейроНицше:
+"anything problematic theren thayntuid ouel as f end oranit thare meit as aem
+otolo anr ait igu fste isracince aymanusss cea wrot we ant!"
+
+Epoch: 42, time: 9.3s, loss: 1.035
+
+Начало оригинального Ницще:
+"One must however go still further and also declare war relentless war to the
+knife against the atomistic requirements which still lead a dangerous aft!"
+
+Продолжение НейроНицше:
+"Er life in places where no one suspects them like the more celebrated metaphysical
+requirements one must also above all give the finishing stroke to that other and more portentous atomism which christianity has taught best and longest the soul atomismss anly wa fth ot oras togn ouandi cey f!"
+
+Epoch: 43, time: 9.1s, loss: 1.035
+
+Начало оригинального Ницще:
+"Which seeks to seduce to good opinions of itself it is the slave too who immediately
+afterwards falls prostrate himself before these opinions as thoug!"
+
+Продолжение НейроНицше:
+"H he had not called them forth a
+H he had not called them forth as!"
+
+Epoch: 44, time: 9.2s, loss: 1.034
+
+Начало оригинального Ницще:
+"Though this estimate of philosophy may enjoy the approval of all the positivists
+of france and germany and possibly it even flattered the heart and ta!"
+
+Продолжение НейроНицше:
+"Ste of kant let us call to mind the titles of his principal works our new philosophers
+will say notwithstanding that critics are instruments of the philosopher and just on that account as instruments they are far from being philosophers themselves tuveirciss euxen at kh as bent o vuoth as the y menpeconpos hangceabines  es wod toigl id and peses ote and dhhansls ine al th byiseges  apd ithers e!"
+
+Epoch: 45, time: 9.2s, loss: 1.024
+
+Начало оригинального Ницще:
+"By not obtaining the satisfaction of gratitude the powerful would have shown
+himself powerless and have ranked as such thenceforward!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 46, time: 9.2s, loss: 1.030
+
+Начало оригинального Ницще:
+"There are surviving specimens of humanity whose brains through the vicissitudes
+of heredity have escaped proper developmentit and and the vcyeenotire!"
+
+Продолжение НейроНицше:
+"As thined is bonin ndu
+As thined is bonin nduy!"
+
+Epoch: 47, time: 9.2s, loss: 1.025
+
+Начало оригинального Ницще:
+"Whatever german music came afterwards belongs to romanticism that is to say
+to a movement which historically considered was still shorter more fleetin!"
+
+Продолжение НейроНицше:
+"G and more superficial than that great interlude the transition of europe from
+rousseau to napoleon and to the rise of democracy fhis calre wdhar kranikfin and ithalgctthopars sif oonas hve pindxeatithestre mhonn oftrean ndyltw iregnifapst isin iht othli atens mist an t oofat y!"
+
+Epoch: 48, time: 9.1s, loss: 1.013
+
+Начало оригинального Ницще:
+"There are systems of morals which are meant to justify their author in the
+eyes of other people other systems of morals are meant to tranquilize him a!"
+
+Продолжение НейроНицше:
+"Nd make him self satisfied with other systems he wants to crucify and humble
+himself with others he wishes to take revenge with others to conceal himself with others to glorify himself and gave superiority and distinction this system of morals helps its author to forget that system makes him or something of him forgotten many a moralist would like to exercise power and creative arbitrariness over mankind many another perhaps kant especially gives us to understand by his morals that what is estimable in me is that i know how to obey and with you it shall not be otherwise than with me abln oth in ciuof incte anw son eeanvhe tiiche gu merme the!"
+
+Epoch: 49, time: 9.4s, loss: 1.012
+
+Начало оригинального Ницще:
+"But perhaps everything great has been just as mad at its commencement hastof
+aras tonicoure peppilputro ineudel an cec hlith peganlo adinpys whs o a t!"
+
+Продолжение НейроНицше:
+"Th and in tof menkthlanthly pocud ane tof das cen ald hteanende node
+Th and in tof menkthlanthly pocud ane tof das cen ald hteanende noden!"
+
+Epoch: 50, time: 9.2s, loss: 1.010
+
+Начало оригинального Ницще:
+"That however which is most diseased and degenerated in such nondescripts is
+the will they are no longer familiar with independence of decision or the!"
+
+Продолжение НейроНицше:
+"Courageous feeling of pleasure in willing they are doubtful of the freedom
+of the will even in their dreams our present day europe the scene of a senseless precipitate attempt at a radical blending of classes and consequently of races is therefore skeptical in all its heights and depths sometimes exhibiting the mobile skepticism which springs impatiently and wantonly from branch to branch sometimes with gloomy aspect like a cloud over charged with interrogative signs and often sick unto death of its wille h iund oinse na n to fhiro ohi hiepngene m the ugiprer!"
+
+Epoch: 51, time: 9.1s, loss: 1.004
+
+Начало оригинального Ницще:
+"But there are no such truthsisen hinvenc hah thatot is pcere ahig eras me goned
+coranad tow!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 52, time: 9.2s, loss: 0.998
+
+Начало оригинального Ницще:
+"They serve the brain as the occasions of those lights and colors because the
+brain when the eyes are open and the senses awake is accustomed to percei!"
+
+Продолжение НейроНицше:
+"Ving the cause of every impression of light and color made upon itth peceind
+ac peince anitn f heopulnce khe tibulivenigeye ls!"
+
+Epoch: 53, time: 9.2s, loss: 1.003
+
+Начало оригинального Ницще:
+"Are you absolutely obliged to straighten at once what is crooked belol fevociuts
+in fthe cucervalologiy pwhy hergel ann dceipndadl talanve notin hat i!"
+
+Продолжение НейроНицше:
+"Hcot ouqousle sthiin she y coginthl anns thentgofgre y mmir fua
+Hcot ouqousle sthiin she y coginthl anns thentgofgre y mmir fuan!"
+
+Epoch: 54, time: 9.2s, loss: 0.994
+
+Начало оригинального Ницще:
+"Chapter ixe ffpce he jigfele my wb
+Chapter ixe ffpce he jigfele my wbe!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 55, time: 9.4s, loss: 0.993
+
+Начало оригинального Ницще:
+"In regard to all that takes place outside of us no conclusion is permissible
+that anything will result thus and so must result thus and so that we are!"
+
+Продолжение НейроНицше:
+"comparatively calculable and certain in our experiences that man is the rule
+nature the ruleless stot!"
+
+Epoch: 56, time: 9.2s, loss: 0.990
+
+Начало оригинального Ницще:
+"But what am i doing my friends opta
+But what am i doing my friends optas!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 57, time: 9.2s, loss: 0.980
+
+Начало оригинального Ницще:
+"But what does that matter nowadaysf fuge pean conesof thal tof veapglesped
+orius ceans iperm tres meuur ants and sr chrivoeang heore mand iste ceorsep!"
+
+Продолжение НейроНицше:
+"Mes titiu doen ie cnotirad ceanss
+Mes titiu doen ie cnotirad ceansss!"
+
+Epoch: 58, time: 9.1s, loss: 0.985
+
+Начало оригинального Ницще:
+"How could such a philosophy rule viing fig
+How could such a philosophy rule viing fige!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 59, time: 9.2s, loss: 0.977
+
+Начало оригинального Ницще:
+"Whatine thin oursen of f hent iinos usrestche lfepulle and thevice cingtenstheysen
+scoras an trer is anionessthe lutj art thes isresnfce clspoed rmaoc!"
+
+Продолжение НейроНицше:
+"Ing
+Ingi!"
+
+Epoch: 60, time: 9.3s, loss: 0.974
+
+Начало оригинального Ницще:
+"The practical indifference to religious matters in the midst of which he has
+been born and brought up usually sublimates itself in his case into circu!"
+
+Продолжение НейроНицше:
+"Mspection and cleanliness which shuns contact with religious men and things
+and it may be just the depth of his tolerance and humanity which prompts him to avoid the delicate trouble which tolerance itself brings with ithallplef ther alpt insgirt hoaten ow  p!"
+
+Epoch: 61, time: 9.1s, loss: 0.967
+
+Начало оригинального Ницще:
+"There are the finest gala dresses and disguises for this disease and that for
+instance most of what places itself nowadays in the show cases as object!"
+
+Продолжение НейроНицше:
+"Iveness the scientific spirit l art pour l art and pure voluntary knowledge
+is only decked out skepticism and paralysis of will i am ready to answer for this diagnosis of the european disease the disease of the will is diffused unequally over europe it is worst and most varied where civilization has longest prevailed it decreases according as the barbarian still or again asserts his claims under the loose drapery of western culture it is therefore in the france of today as can be readily disclosed and comprehended that the will is most infirm and france which has always had a masterly aptitude for converting even the portentous crises of its spirit into something charming and seductive now manifests emphatically its intellectual ascendancy over europe by being the school and exhibition of all the charms of skepticism the power to will and to persist moreover in a resolution is already somewhat stronger in germany and again in the north of germany it is stronger than in central germany it is considerably stronger in england spain and corsica associated with phlegm in the former and with hard skulls in the latter not to mention italy which is too young yet to know what it wants and must first show whether it can exercise will but it is strongest and most surprising of all in that immense middle empire where europe as it were flows back to asia namely in russia there the power to will has been long stored up and accumulated there the will uncertain whether to be negative or affirmative waits threateningly to be discharged to borrow their pet phrase from our physicists perhaps not only indian wars and complications in asia would be necessary to free europe from its greatest danger but also internal subversion the shattering of the empire into small states and above all the introduction of parliamentary imbecility together with the obligation of every one to read his newspaper at breakfast i do not say this as one who desires it in my heart i should rather prefer the contrary i mean such an increase in the threatening attitude of russia that europe would have to make up its mind to become equally threatening namely to acquire one will by means of a new caste to rule over the continent a persistent dreadful will of its own that can set its aims thousands of years ahead so that the long spun out comedy of its petty statism and its dynastic as well as its democratic many willed ness might finally be brought to a closev oher meras cersepith iof orentig penstt tof tebon entth eortme sotm n mengsy opglst ilide hisspmye an orfs ind dalj nead selisem aunand ogwers!"
+
+Epoch: 62, time: 9.4s, loss: 0.964
+
+Начало оригинального Ницще:
+"And all that is now to be at an endpay the fanded y tile in iut hoant kof ooth
+the hematn thes ufon athed itiin fine relde mentos umelen th il ince ht!"
+
+Продолжение НейроНицше:
+"R aionn the fiong mustre hlevece a
+R aionn the fiong mustre hlevece an!"
+
+Epoch: 63, time: 9.1s, loss: 0.958
+
+Начало оригинального Ницще:
+"When a woman has scholarly inclinations there is generally something wrong
+with her sexual nature thi pors ththe iyy orfe opyem qolol fo!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 64, time: 9.1s, loss: 0.959
+
+Начало оригинального Ницще:
+"The advantageous and the pleasing as the healthiest growths and powers in the
+intercourse of men are such precious treasures that it is much to be wis!"
+
+Продолжение НейроНицше:
+"Hed the use made of these balsamic means were as economical as possible but
+this is impossible to ont thile is cohe antre tor is wel waine f e couuk ifer!"
+
+Epoch: 65, time: 9.2s, loss: 0.961
+
+Начало оригинального Ницще:
+"Kotzebue certainly knew his germans well enough we are known they cried jubilantly
+to him but sand also thought he knew themmcoyl buerre ouy fort ang!"
+
+Продолжение НейроНицше:
+"Aas pye iun top mou tore sar meve sfegrit linx therpas nelve and is bellen
+coy iqce mapunen the ers lof ion thadid mef to fm!"
+
+Epoch: 66, time: 9.2s, loss: 0.951
+
+Начало оригинального Ницще:
+"Again there are those who have combined all the characteristic features of
+our world of phenomena that is the conception of the world which has been f!"
+
+Продолжение НейроНицше:
+"Ormed and inherited through a series of intellectual vagaries and instead of
+holding the intellect responsible for it all have pronounced the very nature of things accountable for the present very sinister aspect of the world and preached annihilation of existence and ane courasenspensm anghe toc fe moreratatiy thie lol meneliont pt!"
+
+Epoch: 67, time: 9.1s, loss: 0.946
+
+Начало оригинального Ницще:
+"The hybrid european a tolerably ugly plebeian taken all in all absolutely requires
+a costume he needs history as a storeroom of costumes catitinng of!"
+
+Продолжение НейроНицше:
+"Slitut ito th melagl me uut pagren melsers msreand hlvag has antf tados ther
+acionot hion eskof tis po o fu ndessifn ta foundf foreand s!"
+
+Epoch: 68, time: 9.2s, loss: 0.947
+
+Начало оригинального Ницще:
+"The same emotions are in man and woman but in different tempo on that account
+man and woman never cease to misunderstand each othere le al flr the and!"
+
+Продолжение НейроНицше:
+"iorm fath orut al conpirin oul of ou rthe hlead dald chtis wait o
+iorm fath orut al conpirin oul of ou rthe hlead dald chtis wait ow!"
+
+Epoch: 69, time: 9.1s, loss: 0.937
+
+Начало оригинального Ницще:
+"Was it not necessary in the end for men to sacrifice everything comforting
+holy healing all hope all faith in hidden harmonies in future blessedness a!"
+
+Продолжение НейроНицше:
+"Nd justiceineny ihs wan mdeas unta thed ofheanqnto ixot bele slthiin ad ondad
+oy isaty wt ehire odolk dusenrat ore wal an end enwzoltin!"
+
+Epoch: 70, time: 9.1s, loss: 0.942
+
+Начало оригинального Ницще:
+"What is lacking in england and has always been lacking that half actor and
+rhetorician knew well enough the absurd muddle head carlyle who sought to c!"
+
+Продолжение НейроНицше:
+"Onceal under passionate grimaces what he knew about himself namely what was
+lacking in carlyle real power of intellect real depth of intellectual perception in short philosophy!"
+
+Epoch: 71, time: 9.1s, loss: 0.933
+
+Начало оригинального Ницще:
+"The problem of the value of truth presented itself before us or was it we who
+presented ourselves before the problems oultt heantitole spitin wh hiadm!"
+
+Продолжение НейроНицше:
+"mf onm anghe falle w pels in ypon cheengow in oend oso the cegincenghiunto
+andcelpents  haliso!"
+
+Epoch: 72, time: 9.1s, loss: 0.935
+
+Начало оригинального Ницще:
+"Empedocles for example knows nothing of anything shameful devilish and sinful
+in itensign ceinhy the pfon hhed oeing moshet arus thoned mthin ofeel of!"
+
+Продолжение НейроНицше:
+"ho muhraselsithe smers one be anes in thomusas th is this ousint and cotesto
+nem o!"
+
+Epoch: 73, time: 9.2s, loss: 0.931
+
+Начало оригинального Ницще:
+"In order to understand ourselves we must understand it but in order to attain
+a loftier height we must step above ith ofh freoopte t!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 74, time: 9.1s, loss: 0.933
+
+Начало оригинального Ницще:
+"Alast as in le dlevece tion ycedelost wicon coanstuction iut htymas an of couventible
+ceraly!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 75, time: 9.4s, loss: 0.922
+
+Начало оригинального Ницще:
+"Alastfisrmy pe and cohocenstqse of ing thiisn tobim mamere hadl deled carth
+iss permen at allvedd!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 76, time: 9.1s, loss: 0.920
+
+Начало оригинального Ницще:
+"A lack of philology cel al and he poflanaly ad thigor an if dred wo nes be
+iin ste chpea sselce wpertielns the caburle fly to ensw wand itth osopgiy k!"
+
+Продолжение НейроНицше:
+"Kevar
+Kevary!"
+
+Epoch: 77, time: 9.1s, loss: 0.921
+
+Начало оригинального Ницще:
+"Astrology and the likend mest in be trapy th thed whsergf idled in meus cormadgs
+pong seulti wrto ed mas itothe be thes theas ha wpre wa none soluly a!"
+
+Продолжение НейроНицше:
+"D dunre thuad mof thi
+D dunre thuad mof thig!"
+
+Epoch: 78, time: 9.3s, loss: 0.911
+
+Начало оригинального Ницще:
+"Is that really a pessimistn med sfwhe in anguthof peventiontisn sonomely senoplel
+iauns thay te wme orientig fo med elacgly onti pounsgintf chire teuc!"
+
+Продолжение НейроНицше:
+"Ariitn one merlis hom ori
+Ariitn one merlis hom orip!"
+
+Epoch: 79, time: 9.2s, loss: 0.912
+
+Начало оригинального Ницще:
+"It is characteristic of the germans that the question what is germantind ad
+utse pfe git hanf or an sof dunpitin foc thar ofe tor              o!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 80, time: 9.1s, loss: 0.909
+
+Начало оригинального Ницще:
+"Thus man wishes woman to be peaceable but in fact woman is essentially unpeaceable
+like the cat however well she may have assumed the peaceable demean!"
+
+Продолжение НейроНицше:
+"Ourvede as cor
+Ourvede as cort!"
+
+Epoch: 81, time: 9.1s, loss: 0.904
+
+Начало оригинального Ницще:
+"On the contrary it is something universally human ajax should thus have soothed
+himselfe thobpenluplnd tayed!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 82, time: 9.1s, loss: 0.904
+
+Начало оригинального Ницще:
+"Why then she wishes to make herself feared perhaps she thereby wishes to get
+the mastery!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 83, time: 9.2s, loss: 0.897
+
+Начало оригинального Ницще:
+"On the contrary my friendshy intinepore in bey ar the duas kincel af as the
+thele asiseunw ih peasust meln!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 84, time: 9.2s, loss: 0.894
+
+Начало оригинального Ницще:
+"The comparative classification of enjoyments itself is not determined according
+to absolute ethics but after each new ethical adjustment it is then de!"
+
+Продолжение НейроНицше:
+"Cided whether conduct be ethical or the reversest fors n in coor mott the soteuceve
+hasy in pised shisty in inuconched inosyutind atencuind orete isrentoraty oute thimst thers thot wore sempestilr!"
+
+Epoch: 85, time: 9.2s, loss: 0.885
+
+Начало оригинального Ницще:
+"So reasoned mankind at one time and through many thousands of years joay whenss
+ofel deortahat thi tor a cusefs folus antiys pon path of desis ind tha!"
+
+Продолжение НейроНицше:
+"the the anon rispthalaciypss an win to lount idsth ithiisteng sel
+the the anon rispthalaciypss an win to lount idsth ithiisteng sell!"
+
+Epoch: 86, time: 9.2s, loss: 0.885
+
+Начало оригинального Ницще:
+"After according this great triumph to justice after we have corrected in so
+essential a respect the historical point of view which the age of learning!"
+
+Продолжение НейроНицше:
+"brought with it we may begin to bear still farther onward the banner of enlightenment
+a banner bearing the three names petrarch erasmus voltaire tha oned love has cofles in th or le otore ixas the ad lyotipess sen ougnestitiventvye delaps wef!"
+
+Epoch: 87, time: 9.3s, loss: 0.885
+
+Начало оригинального Ницще:
+"Intellect and ethics antowis nd risesenster hof angitcje sellepy emche  mof
+iusin the curhatasere simsentped conislfs am ormind angcotaldising cer che!"
+
+Продолжение НейроНицше:
+"ssis ynivonfcegce
+ssis ynivonfcegcen!"
+
+Epoch: 88, time: 9.3s, loss: 0.874
+
+Начало оригинального Ницще:
+"Why acts of love are more highly prized than others namely not on account of
+their nature but on account of their utility has already been explained i!"
+
+Продолжение НейроНицше:
+"N the section on the origin of moral feelings in hend andh opal dver saned
+clio as dunle porners the ousre sesndos pens of tor end ontoyy ingt has hin helols thiphins forstre ang!"
+
+Epoch: 89, time: 9.2s, loss: 0.878
+
+Начало оригинального Ницще:
+"Under an invisible spell they always revolve once more in the same orbit however
+independent of each other they may feel themselves with their critica!"
+
+Продолжение НейроНицше:
+"L or systematic wills something within them leads them something impels them
+in definite order the one after the other to wit the innate methodology and relationship of their ideas oans th ualat if wthis in eras inonesce to iang thme pstiqre th ice thatadedm wadbee thor an qlisugn cengobonerss hofrourfen cevespt foons tiras tedn!"
+
+Epoch: 90, time: 9.2s, loss: 0.876
+
+Начало оригинального Ницще:
+"Indeed in a certain sense all acts now are stupid for the highest degree of
+human intelligence that has yet been attained will in time most certainly!"
+
+Продолжение НейроНицше:
+"Be surpassed and then in retrospection all our present conduct and opinion
+will appear as narrow and petty as we now deem the conduct and opinion of savage peoples and ages sths ofm hsersey eangotre onensacisy din ar siveladipng one thand hicesf in eled chevyetyiny ine ipmensd porin!"
+
+Epoch: 91, time: 9.1s, loss: 0.861
+
+Начало оригинального Ницще:
+"Our honesty we free spirits let us be careful lest it become our vanity our
+ornament and ostentation our limitation our stupidity folve fon are vely o!"
+
+Продолжение НейроНицше:
+"Un ory te theags thiras celin caned edrtay irt mot tor
+Un ory te theags thiras celin caned edrtay irt mot tore!"
+
+Epoch: 92, time: 9.1s, loss: 0.868
+
+Начало оригинального Ницще:
+"One ought to avow with the utmost fairness what is still necessary here for
+a long time what is alone proper for the present namely the collection of!"
+
+Продолжение НейроНицше:
+"Material the comprehensive survey and classification of an immense domain of
+delicate sentiments of worth and distinctions of worth which live grow propagate and perish and perhaps attempts to give a clear idea of the recurring and more common forms of these living crystallizations as preparation for a theory of types of morality a oliond ther iphe rkmqerand amgatis tht ined sham themease phees poh!"
+
+Epoch: 93, time: 9.1s, loss: 0.865
+
+Начало оригинального Ницще:
+"Also his free will he does not hear and even if he did he would not know how
+to helpy hath whatvend an charar conidonyd of anch slesgthe untfocelas po!"
+
+Продолжение НейроНицше:
+"Nghe cost anwictlo
+Nghe cost anwictlol!"
+
+Epoch: 94, time: 9.1s, loss: 0.865
+
+Начало оригинального Ницще:
+"But why should one deal with such painful matters itouns cweraninisall atteipell
+s!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 95, time: 9.2s, loss: 0.859
+
+Начало оригинального Ницще:
+"Its object thereby is the incorporation of new experiences the assortment of
+new things in the old arrangements in short growth or more properly the f!"
+
+Продолжение НейроНицше:
+"Eeling of growth the feeling of increased power is its objecte kut u nperle
+and oud are thot hre iurss but art kemcuct anhd inope ire ams wal in eusptre uutar of ndole oopre the pmoer erat feul uth therear as io!"
+
+Epoch: 96, time: 9.2s, loss: 0.850
+
+Начало оригинального Ницще:
+"One must appeal to immense opposing forces in order to thwart this natural
+all too natural progressus in simile the evolution of man to the similar th!"
+
+Продолжение НейроНицше:
+"E ordinary the average the gregarious to the ignoble woust onot wof deorarse
+iretint phei fatt oouthe peurm armeve endpiserer peqnd   f!"
+
+Epoch: 97, time: 9.2s, loss: 0.848
+
+Начало оригинального Ницще:
+"For speaking generally the unexplained must rank as the inexplicable the inexplicable
+as the non natural supernatural miraculous so runs the demand in!"
+
+Продолжение НейроНицше:
+"the souls of all the religious and all the metaphysicians even the artists
+if they happen to be thinkers whereas the scientific man sees in this demand the evil principle mo mofxsuth thate be can this iser cupll tou who tor ftre meng horand erspin hand bell iu chans penid tar cuthe has orof meomengiy cuh acy de thopmen!"
+
+Epoch: 98, time: 9.3s, loss: 0.842
+
+Начало оригинального Ницще:
+"We all feign to ourselves that we are simpler than we are we thus relax ourselves
+away from our fellows mof tofw ditis of!"
+
+Продолжение НейроНицше:
+"
+!"
+
+Epoch: 99, time: 9.2s, loss: 0.838
+
+Начало оригинального Ницще:
+"The thought of suicide is a great consolation by means of it one gets successfully
+through many a bad night harels to ened hisonoy hioullv of thes uns!"
+
+Продолжение НейроНицше:
+"Hess treise mench cathe buon thestithy adbelf if and of dalel ermey os in are
+mas corly this and cedsatisty!"
+
+Epoch: 100, time: 9.2s, loss: 0.835
+
+Начало оригинального Ницще:
+"This condition of things actually exists in europe at present i call it the
+moral hypocrisy of the commanding class sure sherr less in the mpssalft th!"
+
+Продолжение НейроНицше:
+"Iiuf ant aitwiy penor to mind the lot erimors thers mo suandevis hace one conearin
+iz of mense monoon wonesy horo p!"
